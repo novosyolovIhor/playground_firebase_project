@@ -1,0 +1,4 @@
+firebase_functions
+google-cloud-functions  # Google Cloud Functions library
+firebase-admin          # Firebase Admin SDK for Python
+requests                # For making HTTP requests (optional)
